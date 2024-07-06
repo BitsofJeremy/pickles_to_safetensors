@@ -20,6 +20,7 @@ Before you start, make sure you have:
 The script needs these Python libraries:
 - PyTorch
 - safetensors
+- numpy
 
 Don't worry if you don't have these yet - we'll install them in the next steps!
 
